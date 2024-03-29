@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **LLMs and its application**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nikhitamore/nikhita_portfolio](https://github.com/nikhitamore/nikhita_portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/nikhitamore/nikhita_portfolio)
 
 - 💬 Ask me about **Front end technologies like Javascript, React and NextJs and Python, flask**
 
