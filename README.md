@@ -36,6 +36,6 @@
 <h3>Summary </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhitamore&show_icons=true&locale=en&layout=compact" alt="nikhitamore" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhitamore&show_icons=true&locale=en" alt="nikhitamore" /></p>
+<!--- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhitamore&show_icons=true&locale=en" alt="nikhitamore" /></p> --->
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhitamore&" alt="nikhitamore" /></p>
