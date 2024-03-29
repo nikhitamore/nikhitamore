@@ -3,7 +3,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Nikhita More</h1>
-<h4 >Hey there! I'm Nikhita More, a coding enthusiast and full-stack developer from Pune, India. With 4+ years of experience at Red Hat, I'm all about simplifying processes and creating tools to make life easier for support teams. My toolbox includes JavaScript, Next.js, React.js, SQL, Linux, and Python. I also love guiding junior devs and diving into impactful projects. Let's code the future together! 🚀.</h4>
+<h4 >Hey there! I'm Nikhita More, a coding enthusiast and full-stack developer from Pune, India. With 4+ years of experience at Red Hat, I'm all about simplifying processes and creating tools to make life easier for support teams.<br/> My toolbox includes JavaScript, Next.js, React.js, SQL, Linux, and Python. I love diving into impactful projects.
+<br/>
+<h3>Let's code the future together! 🚀.</h3>
+
+</h4>
 <br/>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*yBvA5CnEX3Sd4aod.gif"/>
 
